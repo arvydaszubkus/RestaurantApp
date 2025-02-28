@@ -1,0 +1,28 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "description": "Tomato sauce, mozzarella, and basil",
+      "price": "10.94"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "description": "Tomato sauce, mozzarella, and pepperoni",
+      "price": "11.94"
+    },
+    {
+      "id": 3,
+      "name": "Hawaiian",
+      "description": "Tomato sauce, mozzarella, ham, and pineapple",
+      "price": "9.94"
+    },
+    {
+      "id": "5061",
+      "name": "Meat lover",
+      "description": "meat, meat and more meat",
+      "price": "16.90"
+    }
+  ]
+}
