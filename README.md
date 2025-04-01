@@ -2,6 +2,7 @@ dotnet run
 
 //start ui
 npm install
+
 npm run dev
 
 //start mock API
